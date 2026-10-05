@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi, i'm akshovya
+
 
 <!--
 **akshovya99/akshovya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
